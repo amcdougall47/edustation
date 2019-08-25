@@ -281,7 +281,7 @@ void loop() {
 		delay(1200);
 
 		// SET SLEEP INTERVAL BETWEEN READINGS
-		System.sleep(SLEEP_MODE_DEEP, 15*60); \\ CURRENT INTERVAL = 15*60seconds
+		System.sleep(SLEEP_MODE_DEEP, 15*60); 	// CURRENT INTERVAL = 15 minutes
 
 	}	
 		
